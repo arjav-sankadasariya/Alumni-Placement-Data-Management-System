@@ -12,7 +12,6 @@ const router = require("express").Router();
 // app.use(cors())
 
 // MongoDB Connection
-// if(mongoose.connect('mongodb+srv://arjavsank:ccdVfyazKMiFBS5m@apdms.be41l2g.mongodb.net/?retryWrites=true&w=majority', {
 // if(mongoose.connect('mongodb://localhost:27017/test', {
 
 //   useNewUrlParser: true,
