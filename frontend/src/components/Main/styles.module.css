@@ -1,0 +1,47 @@
+/* styles.module.css */
+
+.main_container {
+	display: flex;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+
+  li{
+	list-style-type: none;
+  }
+  
+  .left_side {
+	width: 25%;
+	padding-right: 20px;
+	border-right: 1px solid #ccc;
+  }
+  
+  .right_side {
+	flex: 1;
+	padding-left: 20px;
+  }
+  
+  .btn {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  .btn:hover {
+	background-color: #0056b3;
+  }
+  
+  h1 {
+	font-size: 24px;
+	margin-bottom: 20px;
+  }
+  
+  /* Add any additional styles you need for your layout or buttons */
+  
